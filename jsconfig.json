@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "app": ["/src/app/"],
+      "theme": ["/src/theme/"],
+      "components": ["/src/components/"]
+    }
+  }
+}
