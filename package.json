@@ -14,9 +14,15 @@
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.0",
     "@fontsource/ubuntu": "^5.0.12",
+    "chart.js": "^4.4.2",
+    "d3": "^7.9.0",
     "framer-motion": "^11.0.8",
+    "ml5": "^0.12.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-chartjs-2": "^5.2.0",
+    "react-charts": "^3.0.0-beta.57",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
